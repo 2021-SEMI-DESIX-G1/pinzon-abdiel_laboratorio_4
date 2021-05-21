@@ -1,0 +1,10 @@
+
+h3 {
+    margin: 0;
+}
+.contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
